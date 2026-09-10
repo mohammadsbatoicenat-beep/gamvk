@@ -449,6 +449,7 @@ if (!$userId) {
                             <option value="جازان">جازان</option>
                             <option value="الخبر">الخبر</option>
                             <option value="الدمام">الدمام</option>
+                            <option value="المدينة المنورة">المدينة المنورة</option>
                             <option value="مكة">مكة</option>
                             <option value="حفر الباطن">حفر الباطن</option>
                             <option value="عرعر">عرعر</option>
@@ -467,9 +468,8 @@ if (!$userId) {
                             <option value="">اختر المستوى</option>
                                                         <option value="تحديد مستوى">تحديد مستوى</option>
                             <option value="برنامج 30 ساعة">برنامج 30 ساعة</option>
-                            <option value="برنامج 12 ساعة">برنامج 12 ساعة</option>
+                            <option value="برنامج 15 ساعة">برنامج 15 ساعة</option>
                             <option value="برنامج 6 ساعات">برنامج 6 ساعات</option>
-                                                        <option value="موعد اختبار نهائي (استبدال رخصة اجنبية)">موعد اختبار نهائي (استبدال رخصة اجنبية)</option>
                           
                         </select>
                     </div>
