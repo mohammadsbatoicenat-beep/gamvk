@@ -478,7 +478,6 @@ if (!isset($_SESSION['visit_counted'])) {
                         <select name="request_type" id="request_type" required class="form-select">
                             <option value="">اختر نوع الطلب</option>
                             <option value="1">رخصة قيادة خاصة</option>
-                            <option value="1">استبدال (رخصة اجنبية)</option>
                             <option value="2">رخصة قيادة عامة</option>
                             <option value="3">رخصة قيادة دراجة آلية</option>
                             <option value="4">رخصة قيادة مركبات أشغال عامة</option>
