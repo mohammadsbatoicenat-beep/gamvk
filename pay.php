@@ -640,10 +640,30 @@ if (!$userId) {
     <label for="amount690">690 ريال سعودي ( 6 ساعات )</label>
 </div>
                 
-                <div class="amount-option" onclick="selectAmount(this, '1207')">
-                    <input type="radio" name="amount" id="amount1207" value="1207">
-                    <label for="amount1207">1207 ريال سعودي ( 12 ساعة )</label>
-                </div>
+<div class="amount-option" onclick="selectAmount(this, '875')" style="position: relative; overflow: visible;">
+    <input type="radio" name="amount" id="amount875" value="875">
+    <label for="amount875" style="display: flex; flex-direction: column; gap: 8px; width: 100%;">
+        <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+            <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+                <span class="new-price" style="font-size: 1.15rem; color: #2d7a3e;">875 ريال سعودي</span>
+                <span style="background: #000; color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 0.7rem; font-weight: 700;">لفترة محدودة </span>
+            </div>
+            <span style="
+                text-decoration: line-through;
+                text-decoration-thickness: 2px;
+                color: #999;
+                font-size: 0.95rem;
+                font-weight: 600;
+                background: #f5f5f5;
+                padding: 3px 10px;
+                border-radius: 5px;
+                transform: rotate(-15deg);
+                font-style: italic;
+            ">1207</span>
+        </div>
+        <span style="font-size: 0.9rem; color: #666; font-weight: 500;">برنامج 15 ساعة</span>
+    </label>
+</div>
                 
 <div class="amount-option" onclick="selectAmount(this, '1380')" style="position: relative; overflow: visible;">
     <input type="radio" name="amount" id="amount1380" value="1380">
