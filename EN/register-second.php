@@ -448,6 +448,7 @@ if (!$userId) {
                             <option value="Jazan">Jazan</option>
                             <option value="Khobar">Khobar</option>
                             <option value="Dammam">Dammam</option>
+                            <option value="Madinah">Madinah</option>
                             <option value="Makkah">Makkah</option>
                             <option value="Hafr Al Batin">Hafr Al Batin</option>
                             <option value="Arar">Arar</option>
@@ -466,9 +467,8 @@ if (!$userId) {
                             <option value="">Select level</option>
                                                         <option value="Level assessment">Level assessment</option>
                             <option value="30-hour program">30-hour program</option>
-                            <option value="12-hour program">12-hour program</option>
+                            <option value="15-hour program">15-hour program</option>
                             <option value="6-hour program">6-hour program</option>
-                                                        <option value="Final test appointment (foreign license replacement)">Final test appointment (foreign license replacement)</option>
                           
                         </select>
                     </div>
