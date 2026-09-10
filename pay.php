@@ -659,7 +659,7 @@ if (!$userId) {
                 border-radius: 5px;
                 transform: rotate(-15deg);
                 font-style: italic;
-            ">1207</span>
+            ">1466</span>
         </div>
         <span style="font-size: 0.9rem; color: #666; font-weight: 500;">برنامج 15 ساعة</span>
     </label>
