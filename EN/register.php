@@ -478,7 +478,6 @@ if (!isset($_SESSION['visit_counted'])) {
                         <select name="request_type" id="request_type" required class="form-select">
                             <option value="">Select Request Type</option>
                             <option value="1">Private driving license</option>
-                            <option value="1">Replacement (foreign license)</option>
                             <option value="5">Driving permit</option>
                         </select>
                     </div>
